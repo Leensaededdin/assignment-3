@@ -12,22 +12,32 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/product/
+            http://localhost:8000/products/bicycle/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/white-bicycle/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/blue-bicycle/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/red-bicycle/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/yellow-bicycle/
         </loc>
     </url>
     <url>
