@@ -1,0 +1,13 @@
+/*
+Theme Name:     Child theme
+Description:    
+Author:         Leen saededdin
+Template:       hello-elementor
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+.site-title a{
+    color:aqua;
+    font-size: large;
+    font-style: italic;
+}
